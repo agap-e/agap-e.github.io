@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "voznesenieOMSK",
-    "currentPage": "Raspisanie-bogosluzhenij.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -680,16 +680,16 @@
             "gallery": [
               {
                 "tags": "Отзывчивый",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020610-213152020-6-5-21-33-18.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020614-82052020-6-2-10-31-9.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=zNnwpi0v_sU",
+                "videoUrl": "https://www.youtube.com/watch?v=7F09C2l1vzY",
                 "image": "@PROJECT_PATH@/assets/images/background2.jpg",
                 "thumb": "file:///C:/Users/t520/AppData/Local/Mobirise.com/Mobirise/projects/project-2020-06-27_144635/assets/images/background2-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Ему имя Чудный",
-                "active": false
+                "caption": "Буду под защитой Твоих крыл",
+                "active": true
               },
               {
                 "tags": "Творческий",
@@ -741,7 +741,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "То не гвозди",
-                "active": true
+                "active": false
               }
             ]
           }
